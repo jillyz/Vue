@@ -1,0 +1,854 @@
+[
+	{
+		"stage": 1,
+		"stageName": "初階",
+		"content": "對幼兒而言，生活中熟悉的事物是引領孩子進入學習的最好教材，從食衣住行等生活上的基礎認知，延伸到環境器具設備等的使用方式，透過生動有趣的畫面，不但能激發幼兒高度的學習興趣，也可以為未來高階的學習奠定優良的基礎。",
+		"books": [
+			{
+				"guid": 1,
+				"id": 101,
+				"stage": 1,
+				"title": "生日派對",
+				"title-en": "Happy Birthday",
+				"subject": "物件形狀與顏色的基本認識",
+				"types": [1,101,102,501,502,9901,9902]
+			},
+			{
+				"guid": 2,
+				"id": 102,
+				"stage": 1,
+				"title": "我的數字不見了",
+				"title-en": "My numbers are gone",
+				"subject": "認識 1-12 數字概念",
+				"types": [2,201,202,203,302,9901,9903,9904]
+			},
+			{
+				"guid": 3,
+				"id": 103,
+				"stage": 1,
+				"title": "飛吧！多變的形狀",
+				"title-en": "Fly! Shapes",
+				"subject": "引發幼兒想像力及創造力",
+				"types": [5,4,1,101,501,9901,9902,9905,9906,9907,9908,99111,99112]
+			},
+			{
+				"guid": 4,
+				"id": 104,
+				"stage": 1,
+				"title": "數字生活化",
+				"title-en": "The numbers are everywhere",
+				"subject": "生活中處處有數字",
+				"types": [1,2,201,203,9901,9904,9903,9909,9910,9911]
+			},
+			{
+				"guid": 5,
+				"id": 105,
+				"stage": 1,
+				"title": "耍寶搞笑的Mina",
+				"title-en": "Mina's dancing up and down",
+				"subject": "方位及方向和動作聯想的概念",
+				"types": [1,6,102,103,104,502,503,601,602,9901,99011,9902,9903]
+			},
+			{
+				"guid": 6,
+				"id": 106,
+				"stage": 1,
+				"title": "我想長大去上學",
+				"title-en": "I grew up",
+				"subject": "增進生活認知的思考力",
+				"types": [1,5,502,9902,9904,9906,9912,9913,9915]
+			},
+			{
+				"guid": 7,
+				"id": 107,
+				"stage": 1,
+				"title": "魔幻的迷宮冒險",
+				"title-en": "Magic labyrinth",
+				"subject": "路徑方向的概念",
+				"types": [9901,99021,503,602]
+			},
+			{
+				"guid": 8,
+				"id": 108,
+				"stage": 1,
+				"title": "你往哪個方向走？",
+				"title-en": "Walk back and forth",
+				"subject": "學習空間概念",
+				"types": [9901]
+			},
+			{
+				"guid": 9,
+				"id": 109,
+				"stage": 1,
+				"title": "快樂的小園丁",
+				"title-en": "Happy young gardeners",
+				"subject": "每個主題所需要的物品或器具的認識",
+				"types": [9901]
+			},
+			{
+				"guid": 10,
+				"id": 110,
+				"stage": 1,
+				"title": "有趣的數數遊戲",
+				"title-en": "Counting game",
+				"subject": "數數及加法的基本概念",
+				"types": [9901]
+			},
+			{
+				"guid": 11,
+				"id": 111,
+				"stage": 1,
+				"title": "莉莉的新生活",
+				"title-en": "Lily's new life",
+				"subject": "推理的基本概念",
+				"types": [9901]
+			},
+			{
+				"guid": 12,
+				"id": 112,
+				"stage": 1,
+				"title": "我和你一樣哦！",
+				"title-en": "The same with you",
+				"subject": "認識同類和不同類的概念",
+				"types": [9901]
+			},
+			{
+				"guid": 13,
+				"id": 113,
+				"stage": 1,
+				"title": "舞動的線條",
+				"title-en": "Dancing lines",
+				"subject": "辨識圖形變化",
+				"types": [9901]
+			},
+			{
+				"guid": 14,
+				"id": 114,
+				"stage": 1,
+				"title": "春花百開",
+				"title-en": "Spring flowers",
+				"subject": "分辨花草的形狀與顏色",
+				"types": [9901]
+			},
+			{
+				"guid": 15,
+				"id": 115,
+				"stage": 1,
+				"title": "四季",
+				"title-en": "Four Seasons",
+				"subject": "觀察四季與場景景物的變化",
+				"types": [9901]
+			}
+		]
+	},
+	{
+		"stage": 2,
+		"stageName": "初階",
+		"content": "在第二階的學習裡，我們帶著孩子認識世界，從動物特徵的辨識到生活上基本是非對錯的判別，孩子能在這個過程裡建立良好正確的價值觀和是非概念；透過對幾何圖形的初步辨識，孩子對數學上的比較、形狀等會有基礎且正確的認知。經由這樣的訓練過程，不僅可強化幼兒的思考，同時可以增進他們邏輯上的應變能力。",
+		"books": [
+			{
+				"guid": 16,
+				"id": 201,
+				"stage": 2,
+				"title": "茉莉的快樂時光",
+				"title-en": "Molly's happy time",
+				"subject": "物件形狀花色及擺設的認知推理",
+				"types": [9901]
+			},
+			{
+				"guid": 17,
+				"id": 202,
+				"stage": 2,
+				"title": "是誰藏在裡面呢？",
+				"title-en": "What's hiding here",
+				"subject": "圓形、三角形、正方形大集合",
+				"types": [9901]
+			},
+			{
+				"guid": 18,
+				"id": 203,
+				"stage": 2,
+				"title": "瘋狂的夏天",
+				"title-en": "Crazy summer",
+				"subject": "部分與整體的觀察認知",
+				"types": [9901]
+			},
+			{
+				"guid": 19,
+				"id": 204,
+				"stage": 2,
+				"title": "哈囉！我在這裡！",
+				"title-en": "Hello! I'm here",
+				"subject": "空間與圖像邏輯的識別推理",
+				"types": [9901]
+			},
+			{
+				"guid": 20,
+				"id": 205,
+				"stage": 2,
+				"title": "彩色蝴蝶世界",
+				"title-en": "Colored world",
+				"subject": "動物習性、生活習性的認知",
+				"types": [9901]
+			},
+			{
+				"guid": 21,
+				"id": 206,
+				"stage": 2,
+				"title": "幾何娃娃",
+				"title-en": "Geomatric dolls",
+				"subject": "空間方位的基礎認知",
+				"types": [9901]
+			},
+			{
+				"guid": 22,
+				"id": 207,
+				"stage": 2,
+				"title": "點、線、面",
+				"title-en": "",
+				"subject": "平面圖形變化",
+				"types": [9901]
+			},
+			{
+				"guid": 23,
+				"id": 208,
+				"stage": 2,
+				"title": "基礎認知",
+				"title-en": "Basic concepts",
+				"subject": "邏輯思考應變力",
+				"types": [9901]
+			},
+			{
+				"guid": 24,
+				"id": 209,
+				"stage": 2,
+				"title": "看看我的臉",
+				"title-en": "Watch my face",
+				"subject": "動物特徵的認知及識別",
+				"types": [9901]
+			},
+			{
+				"guid": 25,
+				"id": 210,
+				"stage": 2,
+				"title": "是非對錯",
+				"title-en": "True or false",
+				"subject": "場景物件的認知推理",
+				"types": [9901]
+			},
+			{
+				"guid": 26,
+				"id": 211,
+				"stage": 2,
+				"title": "衝浪去囉！",
+				"title-en": "Let's go surfing",
+				"subject": "培養觀其因而知其果的概念",
+				"types": [9901]
+			},
+			{
+				"guid": 27,
+				"id": 212,
+				"stage": 2,
+				"title": "跳耀的字母寶寶",
+				"title-en": "Happy letters",
+				"subject": "英文26個字母的認知",
+				"types": [9901]
+			},
+			{
+				"guid": 28,
+				"id": 213,
+				"stage": 2,
+				"title": "比一比",
+				"title-en": "Compare this with that",
+				"subject": "學習量的概念",
+				"types": [9901]
+			},
+			{
+				"guid": 29,
+				"id": 214,
+				"stage": 2,
+				"title": "魔力形狀",
+				"title-en": "Magic shapes",
+				"subject": "數學圖像與邏輯的思考",
+				"types": [9901]
+			},
+			{
+				"guid": 30,
+				"id": 215,
+				"stage": 2,
+				"title": "新年快樂",
+				"title-en": "Happy new year",
+				"subject": "認識中國新年的傳統習俗",
+				"types": [9901]
+			}
+		]
+	},
+	{
+		"stage": 3,
+		"stageName": "中階",
+		"content": "良好的推理能力是解決一切問題的基礎，透過豐富多變的題型和生活中的實際經驗，我們將數字和數量的應用概念帶入幼兒的生活中，為幼兒導入數理邏輯的良好基礎，同時經由相似的圖形和多變的場景，可以培養幼兒細膩的觀察力和比較能力，同時進一步訓練他們的因果邏輯推理並培養正確的生活態度與生活習慣。",
+		"books": [
+			{
+				"guid": 31,
+				"id": 301,
+				"stage": 3,
+				"title": "動物大觀園",
+				"title-en": "",
+				"subject": "從多個面向認識鳥類",
+				"types": [9901]
+			},
+			{
+				"guid": 32,
+				"id": 302,
+				"stage": 3,
+				"title": "小小數學家",
+				"title-en": "",
+				"subject": "1-40數數的學習概念",
+				"types": [9901]
+			},
+			{
+				"guid": 33,
+				"id": 303,
+				"stage": 3,
+				"title": "吵雜的菜市場",
+				"title-en": "",
+				"subject": "結合平常孩子生活的經驗或事物",
+				"types": [9901]
+			},
+			{
+				"guid": 34,
+				"id": 304,
+				"stage": 3,
+				"title": "雷伊的學校生活",
+				"title-en": "",
+				"subject": "方位、邏輯、空間、輪廓、順序⋯⋯等等的結合學習",
+				"types": [9901]
+			},
+			{
+				"guid": 35,
+				"id": 305,
+				"stage": 3,
+				"title": "生活常規",
+				"title-en": "",
+				"subject": "培養正確觀念的基石",
+				"types": [9901]
+			},
+			{
+				"guid": 36,
+				"id": 306,
+				"stage": 3,
+				"title": "夜晚",
+				"title-en": "",
+				"subject": "黑夜中對物件的觀察思考",
+				"types": [9901]
+			},
+			{
+				"guid": 37,
+				"id": 307,
+				"stage": 3,
+				"title": "動物面面觀",
+				"title-en": "",
+				"subject": "從不同面向認識動物",
+				"types": [9901]
+			},
+			{
+				"guid": 38,
+				"id": 308,
+				"stage": 3,
+				"title": "數字動一動",
+				"title-en": "",
+				"subject": "加法的學習",
+				"types": [9901]
+			},
+			{
+				"guid": 39,
+				"id": 309,
+				"stage": 3,
+				"title": "旅遊日誌",
+				"title-en": "",
+				"subject": "動作順序的學習概念",
+				"types": [9901]
+			},
+			{
+				"guid": 40,
+				"id": 310,
+				"stage": 3,
+				"title": "形形色色，變化多端",
+				"title-en": "",
+				"subject": "平面圖形與立體圖形之間的關係",
+				"types": [9901]
+			},
+			{
+				"guid": 41,
+				"id": 311,
+				"stage": 3,
+				"title": "一起去冒險",
+				"title-en": "",
+				"subject": "生活中習習相關的事物或經歷",
+				"types": [9901]
+			},
+			{
+				"guid": 42,
+				"id": 312,
+				"stage": 3,
+				"title": "我的表情變了嗎？",
+				"title-en": "",
+				"subject": "細膩的辨識學習-1",
+				"types": [9901]
+			},
+			{
+				"guid": 43,
+				"id": 313,
+				"stage": 3,
+				"title": "幾何遊戲",
+				"title-en": "",
+				"subject": "從幾何圖形訓練對應能力",
+				"types": [9901]
+			},
+			{
+				"guid": 44,
+				"id": 314,
+				"stage": 3,
+				"title": "我總是來無影去無蹤",
+				"title-en": "",
+				"subject": "方向方位認知概念學習",
+				"types": [9901]
+			},
+			{
+				"guid": 45,
+				"id": 315,
+				"stage": 3,
+				"title": "記憶訓練",
+				"title-en": "",
+				"subject": "從圖像訓練記憶",
+				"types": [9901]
+			}
+		]
+	},
+	{
+		"stage": 4,
+		"stageName": "中階",
+		"content": "這一階段的學習扮演了承先啟後的關鍵，因此我們安排了圖像與空間變化的各種類型，讓孩子對立體形狀的組合變化有更深刻的認識；此外，經由圖像邏輯的各種推理思考，不僅可幫助孩子訓練他們的分析判斷能力，也可以活化他們對圖形和語言的抽象思考和創意整合能力。",
+		"books": [
+			{
+				"guid": 46,
+				"id": 401,
+				"stage": 4,
+				"title": "愛麗絲夢遊仙境",
+				"title-en": "",
+				"subject": "奇幻世界的冒險",
+				"types": [9901]
+			},
+			{
+				"guid": 47,
+				"id": 402,
+				"stage": 4,
+				"title": "不可思議的動物世界",
+				"title-en": "",
+				"subject": "動物特徵的認識及辨識",
+				"types": [9901]
+			},
+			{
+				"guid": 48,
+				"id": 403,
+				"stage": 4,
+				"title": "動物大集合",
+				"title-en": "",
+				"subject": "細膩的辨識力學習-2",
+				"types": [9901]
+			},
+			{
+				"guid": 49,
+				"id": 404,
+				"stage": 4,
+				"title": "東轉西轉",
+				"title-en": "",
+				"subject": "平面的圖形到體積的觀察與辨識",
+				"types": [9901]
+			},
+			{
+				"guid": 50,
+				"id": 405,
+				"stage": 4,
+				"title": "埃及法老王",
+				"title-en": "",
+				"subject": "視覺與思考能力的訓練",
+				"types": [9901]
+			},
+			{
+				"guid": 51,
+				"id": 406,
+				"stage": 4,
+				"title": "黑與白",
+				"title-en": "",
+				"subject": "黑白對比色的視覺辨識",
+				"types": [9901]
+			},
+			{
+				"guid": 52,
+				"id": 407,
+				"stage": 4,
+				"title": "彎曲的線條",
+				"title-en": "",
+				"subject": "線條輪廓的辨識",
+				"types": [9901]
+			},
+			{
+				"guid": 53,
+				"id": 408,
+				"stage": 4,
+				"title": "誰的方向感最好",
+				"title-en": "",
+				"subject": "方向方位認知概念學習",
+				"types": [9901]
+			},
+			{
+				"guid": 54,
+				"id": 409,
+				"stage": 4,
+				"title": "我和別人長得不一樣",
+				"title-en": "",
+				"subject": "生活知識上等細微處的觀察與辨別",
+				"types": [9901]
+			},
+			{
+				"guid": 55,
+				"id": 410,
+				"stage": 4,
+				"title": "按照順序排排看",
+				"title-en": "",
+				"subject": "事件發生前因後果的排序認知概念",
+				"types": [9901]
+			},
+			{
+				"guid": 56,
+				"id": 411,
+				"stage": 4,
+				"title": "美麗的一天",
+				"title-en": "",
+				"subject": "圖形變化的聯想",
+				"types": [9901]
+			},
+			{
+				"guid": 57,
+				"id": 412,
+				"stage": 4,
+				"title": "無懼的阿拉丁",
+				"title-en": "",
+				"subject": "細膩的辨識力學習-3",
+				"types": [9901]
+			},
+			{
+				"guid": 58,
+				"id": 413,
+				"stage": 4,
+				"title": "疊疊樂",
+				"title-en": "",
+				"subject": "圖形辨識推理",
+				"types": [9901]
+			},
+			{
+				"guid": 59,
+				"id": 414,
+				"stage": 4,
+				"title": "誰拿了蛋糕",
+				"title-en": "",
+				"subject": "加減法的簡易運用",
+				"types": [9901]
+			},
+			{
+				"guid": 60,
+				"id": 415,
+				"stage": 4,
+				"title": "你想到什麼了嗎？",
+				"title-en": "",
+				"subject": "正確的聯想力及推理能力",
+				"types": [9901]
+			}
+		]
+	},
+	{
+		"stage": 5,
+		"stageName": "高階",
+		"content": "經過前面四階的學習，相信孩童對於生活、數理、空間、因果等概念都有了深厚的基礎，因此在這一階段的學習裡，我們透過更多元的題材和圖像遊戲的進行，訓練孩童細膩的觀察能力和辨視推理能力；同時經由圖像資料的整合，孩童對於因果邏輯和序列組合的感知能力也會大大增強。",
+		"books": [
+			{
+				"guid": 61,
+				"id": 501,
+				"stage": 5,
+				"title": "奇妙的組合",
+				"title-en": "",
+				"subject": "不同特徵的細膩辨識",
+				"types": [9901]
+			},
+			{
+				"guid": 62,
+				"id": 502,
+				"stage": 5,
+				"title": "誰是第一",
+				"title-en": "",
+				"subject": "位置、排列、方向⋯⋯等先後順序學習概念",
+				"types": [9901]
+			},
+			{
+				"guid": 63,
+				"id": 503,
+				"stage": 5,
+				"title": "是誰把我分解了",
+				"title-en": "",
+				"subject": "圖形組合與分解的學習概念",
+				"types": [9901]
+			},
+			{
+				"guid": 64,
+				"id": 504,
+				"stage": 5,
+				"title": "因果關係",
+				"title-en": "",
+				"subject": "邏輯順序的推理-1",
+				"types": [9901]
+			},
+			{
+				"guid": 65,
+				"id": 505,
+				"stage": 5,
+				"title": "新符號遊戲",
+				"title-en": "",
+				"subject": "從幾何圖形進入基礎集合概念",
+				"types": [9901]
+			},
+			{
+				"guid": 66,
+				"id": 506,
+				"stage": 5,
+				"title": "事物之間的連結",
+				"title-en": "",
+				"subject": "聯想力的訓練",
+				"types": [9901]
+			},
+			{
+				"guid": 67,
+				"id": 507,
+				"stage": 5,
+				"title": "偵探長布朗",
+				"title-en": "",
+				"subject": "觀察推理能力的訓練",
+				"types": [9901]
+			},
+			{
+				"guid": 68,
+				"id": 508,
+				"stage": 5,
+				"title": "推一推，想一想",
+				"title-en": "",
+				"subject": "圖形對應、推理邏輯",
+				"types": [9901]
+			},
+			{
+				"guid": 69,
+				"id": 509,
+				"stage": 5,
+				"title": "誰有好眼力",
+				"title-en": "",
+				"subject": "相似圖片的細膩辨識",
+				"types": [9901]
+			},
+			{
+				"guid": 70,
+				"id": 510,
+				"stage": 5,
+				"title": "幽默先生",
+				"title-en": "",
+				"subject": "邏輯順序的推理-2",
+				"types": [9901]
+			},
+			{
+				"guid": 71,
+				"id": 511,
+				"stage": 5,
+				"title": "滑稽逗趣好玩系列",
+				"title-en": "",
+				"subject": "邏輯順序的推理-3",
+				"types": [9901]
+			},
+			{
+				"guid": 72,
+				"id": 512,
+				"stage": 5,
+				"title": "記憶迷圖",
+				"title-en": "",
+				"subject": "記憶力與觀察力的培養",
+				"types": [9901]
+			},
+			{
+				"guid": 73,
+				"id": 513,
+				"stage": 5,
+				"title": "工程解謎",
+				"title-en": "",
+				"subject": "認識工程的建造過程",
+				"types": [9901]
+			},
+			{
+				"guid": 74,
+				"id": 514,
+				"stage": 5,
+				"title": "世界旅行",
+				"title-en": "",
+				"subject": "學習世界文化與歷史常識",
+				"types": [9901]
+			},
+			{
+				"guid": 75,
+				"id": 515,
+				"stage": 5,
+				"title": "好鄰居",
+				"title-en": "",
+				"subject": "符號辨識、順序與邏輯推理",
+				"types": [9901]
+			}
+		]
+	},
+	{
+		"stage": 6,
+		"stageName": "高階",
+		"content": "在六階的學習裡我們整合前面一到五階的學習經驗，設計了一系列綜合題目，孩童需運用之前學過的五大邏輯進行推理思考；透過這樣的整合訓練，不僅有助於左右腦的能力提升，同時也可增進面對生活中各種問題時的危機處理及創意啟發能力，為將來的學校課業學習乃至人格發展奠定良好的基礎。",
+		"books": [
+			{
+				"guid": 76,
+				"id": 601,
+				"stage": 6,
+				"title": "動人旋律",
+				"title-en": "",
+				"subject": "音樂與樂器的認識",
+				"types": [9901]
+			},
+			{
+				"guid": 77,
+				"id": 602,
+				"stage": 6,
+				"title": "奇貌非凡",
+				"title-en": "",
+				"subject": "類似物種的特徵辨識",
+				"types": [9901]
+			},
+			{
+				"guid": 78,
+				"id": 603,
+				"stage": 6,
+				"title": "跑跑走走轉一圈",
+				"title-en": "",
+				"subject": "線條遊戲",
+				"types": [9901]
+			},
+			{
+				"guid": 79,
+				"id": 604,
+				"stage": 6,
+				"title": "誰來找碴",
+				"title-en": "",
+				"subject": "相似圖片的辨識訓練",
+				"types": [9901]
+			},
+			{
+				"guid": 80,
+				"id": 605,
+				"stage": 6,
+				"title": "腦力風暴",
+				"title-en": "",
+				"subject": "綜合邏輯推理能力",
+				"types": [9901]
+			},
+			{
+				"guid": 81,
+				"id": 606,
+				"stage": 6,
+				"title": "翻翻轉轉找一找",
+				"title-en": "",
+				"subject": "圖形組合邏輯思考訓練",
+				"types": [9901]
+			},
+			{
+				"guid": 82,
+				"id": 607,
+				"stage": 6,
+				"title": "消失的幾何娃娃",
+				"title-en": "",
+				"subject": "幾何圖形的空間方位辨識",
+				"types": [9901]
+			},
+			{
+				"guid": 83,
+				"id": 608,
+				"stage": 6,
+				"title": "無所不在的角度",
+				"title-en": "",
+				"subject": "不同角度和圖形的辨識力及聯想",
+				"types": [9901]
+			},
+			{
+				"guid": 84,
+				"id": 609,
+				"stage": 6,
+				"title": "多變的方位",
+				"title-en": "",
+				"subject": "圖形的分辨和識別",
+				"types": [9901]
+			},
+			{
+				"guid": 85,
+				"id": 610,
+				"stage": 6,
+				"title": "腦力大挑戰",
+				"title-en": "",
+				"subject": "數字圖形推理",
+				"types": [9901]
+			},
+			{
+				"guid": 86,
+				"id": 611,
+				"stage": 6,
+				"title": "移動的圖形",
+				"title-en": "",
+				"subject": "圖形推理",
+				"types": [9901]
+			},
+			{
+				"guid": 87,
+				"id": 612,
+				"stage": 6,
+				"title": "透視遊戲",
+				"title-en": "",
+				"subject": "觀察與透視概念的培養",
+				"types": [9901]
+			},
+			{
+				"guid": 88,
+				"id": 613,
+				"stage": 6,
+				"title": "鏡中世界",
+				"title-en": "",
+				"subject": "鏡射與對稱的學習概念",
+				"types": [9901]
+			},
+			{
+				"guid": 89,
+				"id": 614,
+				"stage": 6,
+				"title": "多變的形狀組合",
+				"title-en": "",
+				"subject": "圖形與線條的疊加與減法",
+				"types": [9901]
+			},
+			{
+				"guid": 90,
+				"id": 615,
+				"stage": 6,
+				"title": "拼拼湊湊",
+				"title-en": "",
+				"subject": "幾何圖形的組合與分割",
+				"types": [9901]
+			}
+		]
+	}
+]
