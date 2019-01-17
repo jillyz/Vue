@@ -1,26 +1,19 @@
 <template>
   <div id="app">
-    <!-- <img v-if="false" alt="Vue logo" src="./assets/logo.png"> -->
-    <!-- <HelloWorld v-if="false" msg="Welcome to Your Vue.js App" ccc="heyhey"/> -->
 
     <Catalog v-if="true" />
-    <!-- <Game v-if="true" /> -->
 
   </div>
 </template>
 
 <script>
-// import HelloWorld from './components/HelloWorld.vue';
 import Catalog from './components/Catalog.vue';
-import Game from './components/Game.vue';
 
 
 export default {
   name: 'app',
   components: {
-    // HelloWorld,
     Catalog,
-    Game,
   }
 }
 </script>
